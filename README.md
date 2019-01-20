@@ -36,4 +36,3 @@ or, if you want to use nohup:
  message **open a new terminal window**, cd to the folder where you started the trainer
  and type: ```tail -f nohup.out```
  
- nohup There are two ways
